@@ -19,10 +19,12 @@
 
         <div id="barra-menu">
             <ul>
-                <li><a href="#about">Inicio</a></li>
+                <!-- <li><a href="#">Inicio</a></li> -->
+                <li><a href="#C-sobre">Sobre mim</a></li>
+                <li><a href="#C-servicos">Serviços</a></li>
                 <li><a href="#C-projetos">Projetos</a></li>
                 <li><a href="#C-rodapé">Contato</a></li>
-                <li><a href="#C-sobre">Sobre mim</a></li>
+                
             </ul>
 
             <div class="C-icon">
@@ -37,22 +39,22 @@
     
         <div class="main-title">
             <h1>Eu sou Julian Diel </h1>
-            <h2>Sou desenvolvedor Web</h2>
-            <h5>Desenvolvedor Jr.</h5>
-            <button class="btn" a href=".C-sobre">Sobre mim</button>
+            <h2>Sou desenvolvedor Web Jr.</h2>
+            <!-- <h5>Desenvolvedor Jr.</h5> -->
+            <button><a href="#C-sobre" style="color:black">Sobre mim</a></button>
 
            
         </div><!--main-title-->
     </div><!--Section-1-bg-->
 
 
-    <section class="C-sobre" data-aos="fade-up">
-        <div class="image">
+    <section class="C-sobre" id="C-sobre" data-aos="fade-up">
+        <div class="image" >
             <img src="/Background/about.jpg">
         </div><!--image-->
 
-        <div class="Sobre-mim">
-            <h1>Sobre mim</h1>
+        <div class="Sobre-mim" >
+            <h1 >Sobre mim</h1>
             <h4>Desenvolvedor & <span>desing</span></h4>
             <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria 
                 <br> tipográfica e de impressos, e vem sendo utilizado desde o século XVI,
@@ -64,13 +66,13 @@
                 <br> contendo passagens de Lorem Ipsum, e mais recentemente quando 
                 <br> passou a ser integrado a softwares de editoração eletrônica como Aldus 
                 <br> PageMaker.</p>
-                <button class="btn"><a href="C-projetos">Saber mais</button></a>
+                <button class="btn"><a href="#C-projetos" style="color:black">Saber mais</button></a>
 
         </div><!--Sobre-mim-->
     </section><!---C-sobre-->
 
 
-    <section class="Container" data-aos="fade-up">
+    <section class="Container" id="C-servicos" data-aos="fade-up">
         <h1>Serviços</h1>
         <p>Meu serviços pra você faça sua oferta e me mande uma mensagem </p>
         <p>Nossos serviços pra você</p>
@@ -139,27 +141,40 @@
     </section><!--conatiner-->
 
 
-    <section class="C-projetos" data-aos="fade-up">
+    <section class="C-projetos" id="C-projetos" data-aos="fade-up">
         <h1>Meus projetos</h1>
         <p>Meu serviços pra você faça sua oferta e me mande uma mensagem </p>
         <p>Nossos serviços pra você</p>
         <div class="img-projetos" data-aos="fade-up">
             <a href="https://scratch.mit.edu/projects/712209226" target="_blank">
-            <img src="/Background/pacman.png" alt="projeto">
+            <img src="/Background/pacman.png" alt="projeto"></a>
             <a href="https://straight-alley.surge.sh/" target="_blank">
-            <img src="/Background/temp.png" alt="projeto">
+            <img src="/Background/temp.png" alt="projeto"></a>
             <a href="https://pokedex-intro-web-jj.surge.sh/" target="_blank">
-            <img src="/Background/pokedex.png" alt="projeto">
+            <img src="/Background/pokedex.png" alt="projeto"></a>
         </div><!--img-projetos-->
         <!-- <div class="img-2"><img src="/Background/pacman.png" alt="projeto"></div> -->
     </section><!--C-projetos-->
 
-    <section class="C-rodapé" >
-        <h1>Nos envie uma mensagem para a gente fechar o projeto</h1>
-       <form>
+    <section class="C-rodapé" id="C-rodapé">
+        <!-- <h1>Nos envie uma mensagem para a gente fechar o projeto</h1> -->
+       <!-- <form>
         <input type="email" name="email" id="email" placeholder="Envie uma mensagem">
         <input type="submit" name="submit" value="Enviar">
-       </form>
+       </form> -->
+       <address>
+        Email contato:  <a href="mailto:drjjd55@gmail.com">drjjd55@gmail.com</a>.<br><br>
+        <p>Minhas redes Sociais</p><br>
+        
+        <div id="C-iconRodape">
+            <span><a href="https://www.instagram.com/_realdiel/" target="_blank"><ion-icon name="logo-instagram" style="font-size: 45px"></ion-icon></span></a>
+                <!-- <span class="icon"><ion-icon name="logo-facebook"></ion-icon></span> -->
+            <span><a href="https://www.linkedin.com/in/jos%C3%A9-julian-freitas-diel/" target="_blank"><ion-icon name="logo-linkedIn" style="font-size: 45px"></ion-icon></span></a>
+
+        </div><!--icon--><br>
+        Porto Alegre, Rio Grande do Sul<br>
+        BRASIL
+        </address>
     </section><!--C-rodapé-->
 
     <script src="script.js"></script>
