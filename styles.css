@@ -17,7 +17,7 @@
 
 
 .Section-1-bg{
-    background-image: url(/Background/humor-space-art-space-kerbal-space-program-wallpaper-thumb.jpg);
+    background-image: url(/Background/blackiii_thumbnail.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -68,7 +68,7 @@ aside{
     border: solid 1px #C229AA;
     padding: 8px;
     border-radius: 15px;
-    background: #7601c4;
+    background: #fd9800;
 
 }
 
@@ -94,10 +94,6 @@ aside{
     color: #C229AA;
 }
 
-/* .C-iconRodape  span{
-    font-size: 130px;
-    max-width: 100px;
-} */
 
 .main-title{
    display: flex;
@@ -122,7 +118,7 @@ aside{
 }
 
 .main-title h2{
-    color: #FE002D;
+    color: #fd9800;
     font-size: 50px;
     font-family: "Hanuman";
     font-weight: bold;
@@ -145,7 +141,7 @@ aside{
     margin-top: 80px;
     padding: 8px 5px;
     font-size: 20px;
-    background-color: #db0000;
+    background-color: #fd9800;
     border-radius: 50px;
     color: #ffffff;
     font-family:"Inter" ;
@@ -160,7 +156,7 @@ aside{
     border: solid 1px #fff;
     transition: 0.7s;
     background: transparent;
-    background-color: #807e7e;
+    background-color: #f7f7f7;
     color: #000;
     font-weight: bold;
 }
@@ -483,11 +479,12 @@ aside{
 
 .C-rodapé{
     width: 100%;
-    background-color: #a0a0cf;
+    background-color: #fd9800;
     padding: 50px;
-    color: rgb(12, 12, 12);
+    color: #ffffff;
     font-family: "inria-Sans";
     text-align: center;
+    
 }
 
 .C-rodapé h1{
