@@ -1,7 +1,7 @@
 # JulianDiel.github.io
 
-![image](https://user-images.githubusercontent.com/52138612/182741237-3c1633c9-7e6e-481f-bd0c-7e2993fd643b.png)
-![image](https://user-images.githubusercontent.com/52138612/182741255-8c8ab8f0-3ebc-4b39-9e94-f5a6fc712da6.png)
-![image](https://user-images.githubusercontent.com/52138612/182741276-75c36a95-cdd0-48f3-a4ca-528ac590b66d.png)
-![image](https://user-images.githubusercontent.com/52138612/182741293-2c871768-35bd-4f06-9c06-4d00fb82e161.png)
-![image](https://user-images.githubusercontent.com/52138612/182741304-c20054fc-a469-4649-8a60-82a18eee6022.png)
+![image](https://user-images.githubusercontent.com/52138612/182955189-14490e9f-bd08-4d78-914c-7bdd1ea67ba8.png)
+![image](https://user-images.githubusercontent.com/52138612/182955210-3ff73847-b0b8-4a1e-8cc5-aa3cd74fcfb3.png)
+![image](https://user-images.githubusercontent.com/52138612/182955238-f27652bf-aecc-4920-acd9-c5ac72870876.png)
+![image](https://user-images.githubusercontent.com/52138612/182955259-e8a16149-55ff-45ef-b8c8-ef0f3f1614fa.png)
+![image](https://user-images.githubusercontent.com/52138612/182955284-4949a3b3-c1d1-40f4-9aab-fbd4c7326e11.png)
