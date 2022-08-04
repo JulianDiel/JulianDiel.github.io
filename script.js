@@ -7,3 +7,5 @@ function abrirmenu(){
         BarraMenuAberto.style.width = "0px";
     }
 }
+
+// Julian
