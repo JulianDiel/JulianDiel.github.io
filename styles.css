@@ -236,12 +236,13 @@ aside{
     font-size: 55px;
     font-family: "Inter";
     font-weight: bold;
+    
 }
 
 .Sobre-mim h4{
     text-align: center;
     margin-top: 30px;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: normal;
     font-family: "Inria Sans";
     font-weight: bold;
@@ -296,7 +297,7 @@ aside{
     .Sobre-mim p{
         font-size: 12px;
         width: 500px;
-        padding: 15px;
+        padding: 15%;
         text-align: center;
     }
 
@@ -322,7 +323,7 @@ aside{
 
 .Container h1{
     text-align: center;
-    font-size: 70px;
+    font-size: 50px;
     font-family: "Inria Sans";
     font-weight: bold;
     padding-top: 12%;
